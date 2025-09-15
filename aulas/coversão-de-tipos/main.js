@@ -38,3 +38,14 @@
 // } else {
 //     console.log ('Acesso Negado');
 // }
+
+//EXERCICO IDADE E SALARIO
+// let Idade = prompt ('Insira sua Idade');
+// let Salario = prompt ('Insira seu Salario');
+
+// if (Idade > 18 && Salario >= 2000) {
+//     console.log ('Voce pode fazer o emprestimo');
+// } else {
+//     console.log ('Voce nao pode fazer o emprestimo');
+// }
+
