@@ -30,3 +30,11 @@
 //     console.log ('O seu numero nao esta entre 532 e 743');
 // }
 
+//EXERCICIO SENHA 
+// let Senha = prompt ('Insira sua Senha');
+
+// if (Senha == 'pipoca') {
+//     console.log ('Acesso Permitido');
+// } else {
+//     console.log ('Acesso Negado');
+// }
