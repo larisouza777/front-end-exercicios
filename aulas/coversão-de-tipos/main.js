@@ -62,22 +62,27 @@
 //     console.log ('Infelizmente voce nao tem idade para fazer o emprestimo');
 // }
 
-let experiencia = prompt ('Insira sua experiencia em anos');
-let pontuacao = 0
+// let experiencia = prompt ('Insira sua experiencia em anos');
+// let pontuacao = 0
 
-if (experiencia <= 5) {
-    pontuacao = pontuacao + 10;
-} else if (experiencia >= 5 ) {
-    pontuacao = pontuacao + 20;
-} 
+// if (experiencia <= 5) {
+//     pontuacao = pontuacao + 10;
+// } else if (experiencia >= 5 ) {
+//     pontuacao = pontuacao + 20;
+// } 
 
-let formacao = prompt ('Insira sua formacao');
+// let formacao = prompt ('Insira sua formacao');
 
-if (formacao == 'graduacao') {
-    pontuacao = pontuacao + 20;
-}   else if (formacao == 'mestrado') {
-    pontuacao = pontuacao + 30;
-} else if (formacao == 'doutorado') {
-    pontuacao = pontuacao + 40;
-}
-console.log ( `Sua pontuacao total e de ${pontuacao} pontos`);
+// if (formacao == 'graduacao') {
+//     pontuacao = pontuacao + 20;
+// }   else if (formacao == 'mestrado') {
+//     pontuacao = pontuacao + 30;
+// } else if (formacao == 'doutorado') {
+//     pontuacao = pontuacao + 40;
+// }
+// console.log ( `Sua pontuacao total e de ${pontuacao} pontos`);
+
+
+
+
+
