@@ -1,4 +1,4 @@
-// let nome;
+// Exemplo: Laços de repetição - do while 
 
 // do {
 //     nome = prompt('Insira seu nome');
@@ -6,13 +6,13 @@
 // console.log('Olá ' + nome);
 
 //EXERCICIO 1
-// let numero;
+// let entrada;
 
 // do {
-//     numero = prompt('Insira um numero 1 ou 0');
-// } while (numero != 1 && numero != 0);
+//     entrada = prompt('Insira um numero');
+// } while (entrada != 1 && entrada != 0);
 
-//EXERCICIO 2
+// EXERCICIO 2
 
 // let senha;
 
@@ -22,10 +22,17 @@
 
 //EXERCICIO 3
 
-let contador = 0;
-let
+// let numero;
+// let maiorNumero = 0;
+// let contador = 0;
 
-do {
-    num = Number(prompt('Insira um numero entre 5 e 0'));
-    contador = contador + 1;
-} while (contador < 5); 
+// do {
+//     numero = prompt('Insira um numero');
+//     numero = Number(numero);
+//     if (numero > maiorNumero) {
+//         maiorNumero = numero;
+//     }
+//     contador = contador + 1;
+// } while (contador < 5);
+
+// console.log('O maior numero é: ' + maiorNumero);
