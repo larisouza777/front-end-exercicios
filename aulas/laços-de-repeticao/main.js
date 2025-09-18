@@ -15,13 +15,13 @@
 // }
 
 //EXERCICIO 3
-let n= prompt(Insira um numero)
-let numero = 1;
+// let n = prompt('Insira um numero');
+// let numero = 1;
 
-while (numero >= n){
-    console.log(numero);
-    numero = numero +1;
-}
+// while (numero <= n) {
+//     console.log(numero);
+//     numero = numero + 1;
+// }
 
 
 
