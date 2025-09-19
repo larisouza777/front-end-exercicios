@@ -36,3 +36,17 @@
 // } while (contador < 5);
 
 // console.log('O maior numero é: ' + maiorNumero);
+
+
+// for (let contador = 0; contador <= 12; contador = contador + 2) {
+//     console.log(contador);
+// }
+
+// for (let numero = 0; numero <= 100; numero = numero + 1 ) {
+//     console.log(numero);
+// }
+
+
+for (let peso = 0;  somadePesos >= 10; peso = peso + 1) {
+    console.log(peso);
+}
