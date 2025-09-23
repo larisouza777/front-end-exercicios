@@ -47,6 +47,6 @@
 // }
 
 
-for (let peso = 0;  somadePesos >= 10; peso = peso + 1) {
-    console.log(peso);
-}
+// for (let peso = 0;  somadePesos >= 10; peso = peso + 1) {
+//     console.log(peso);
+// }
